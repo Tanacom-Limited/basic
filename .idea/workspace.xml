@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d81d64d-c848-469d-8cf3-6b965c21cd6b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/basic.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/AccountController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/ApiController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/ErrorsController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/FilehelperController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/HomeController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/IndexController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/InfoController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/MasterdetailController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/PasswordmanagerController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/ReportController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/SharedController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/UsersController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/models/PDODb.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/ajax_layout.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/info_layout.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/main_layout.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/report_layout.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/account/change_email.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/account/edit.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/account/view.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/appfooter.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/appheader.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/errors/error_404.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/errors/error_general.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/errors/error_no_permission.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/errors/error_not_authorised.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/errors/error_server.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/errors/forbidden.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/errors/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/home/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/index/emailverification.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/index/emailverified.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/index/emailverify_template.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/index/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/index/login.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/index/register.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/info/about.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/info/change_language.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/info/contact.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/info/contact_sent.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/info/features.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/info/help.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/info/privacy_policy.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/info/terms_and_conditions.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/passwordmanager/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/passwordmanager/password_reset_completed.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/passwordmanager/password_reset_email_template.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/passwordmanager/password_reset_error.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/passwordmanager/password_reset_form.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/passwordmanager/password_reset_link_sent.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/users/add.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/users/edit.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/users/list.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/partials/users/view.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/animate.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/blueimp-gallery.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootstrap-default.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootstrap-editable.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootstrap-slider.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootstrap-theme-pulse-blue.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootstrap-theme-tequila.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/custom-style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/drip-icons.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/dropzone.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/flatpickr.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/font-awesome.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/font-awesome.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/ion.rangeSlider.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/ion.rangeSlider.skinFlat.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/ion.rangeSlider.skinHTML5.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/ion.rangeSlider.skinModern.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/ion.rangeSlider.skinNice.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/ion.rangeSlider.skinSimple.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/material-icons.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/quill.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/selectize.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/simple-line-icons.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/smart_wizards.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/summernote.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/MaterialIcons-Regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/MaterialIcons-Regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/MaterialIcons-Regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Simple-Line-Icons.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Simple-Line-Icons.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Simple-Line-Icons.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Simple-Line-Icons.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Simple-Line-Icons.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/dripicons-v2.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/dripicons-v2.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/dripicons-v2.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/dripicons-v2.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/summernote.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/summernote.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/summernote.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/favicon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/logo.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/no-image-available.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/spinner.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/stok.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/img/clear.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/img/loading.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/bootstrap-4.3.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/bootstrap-editable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/bootstrap-editable.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/chartjs-2.3.0.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/dropzone.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/export-plugin/FileSaver.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/export-plugin/html2canvas.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/export-plugin/images/csv.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/export-plugin/images/doc.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/export-plugin/images/pdf.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/export-plugin/images/png.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/export-plugin/images/print.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/export-plugin/images/xls.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/export-plugin/jquery.base64.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/export-plugin/tableExport.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/flatpickr.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/ion.rangeSlider.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery-3.3.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.blueimp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.mask.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.mask.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.smartwizard.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/locale/flatpickr/arabic.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/locale/flatpickr/chinese.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/locale/flatpickr/french.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/locale/flatpickr/german.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/locale/flatpickr/hindi.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/locale/flatpickr/italian.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/locale/flatpickr/portuguese.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/locale/flatpickr/russian.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/locale/flatpickr/spanish.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/moment.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/page-scripts.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/plugins-init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/plugins.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/polyfill.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/popper-1.14.7.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/popper.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/selectize.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/summernote.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/helpers/Functions.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/helpers/Html.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/helpers/Lang.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/helpers/Mailer.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/helpers/Menu.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/helpers/Pagination.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/helpers/cache/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/helpers/cache/timthumb_cacheLastCleanTime.touch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/helpers/cache/timthumb_int_18a8645223f0de25af2444e0a7c850fb.timthumb.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/helpers/cache/timthumb_int_3d9b96fec14fe619375501f88977de5b.timthumb.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/helpers/cache/timthumb_int_e28db356472dfcbedbb55529cc7a37e8.timthumb.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/helpers/cache/timthumb_int_ecb804ce857610d6d88c598b7555b807.timthumb.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/helpers/new 1.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/helpers/timthumb.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/AntiXSS.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/Csrf.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/GUMP.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/PHPMailer/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/PHPMailer/PHPMailerAutoload.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/PHPMailer/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/PHPMailer/class.phpmailer.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/PHPMailer/class.pop3.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/PHPMailer/class.smtp.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/PHPMailer/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/PageAccessManager.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/Uploader.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/Validation.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/lang/de.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/lang/en.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/lang/es.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/lang/fa.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/lang/fr.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/lang/he.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/lang/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/lang/it.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/lang/pt-br.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/lang/ru.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/lang/uk.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/system/BaseController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/system/BaseView.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/system/Router.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/uploads/files/nyez05amr62fb47.jpg" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="26" />
+    <option name="y" value="5" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d81d64d-c848-469d-8cf3-6b965c21cd6b" name="Default" comment="" />
+      <created>1579533160628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579533160628</updated>
+      <workItem from="1579533162409" duration="265000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="265000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1175">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-464">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
